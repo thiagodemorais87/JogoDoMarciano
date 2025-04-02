@@ -1,29 +1,25 @@
 # Jogo do Marciano
 
 ## Descrição
-O Jogo do Marciano é um jogo simples desenvolvido em Java, onde o jogador deve adivinhar o número escolhido aleatoriamente pelo computador. O jogo possui um limite de tentativas e registra as melhores jogadas.
 
-## Funcionalidades
-- Escolha de um número aleatório.
-- Contador de tentativas.
-- Limite de tentativas.
-- Registro das melhores jogadas.
-- Mensagens motivacionais ao final do jogo.
+O Jogo do Marciano é um jogo simples de adivinhação onde o jogador precisa acertar um número aleatório dentro de um limite de tentativas. O jogo fornece dicas e feedback conforme o jogador faz suas suposições. O objetivo é acertar o número sorteado com o menor número de tentativas possível.
 
-## Como Jogar
-1. Execute o jogo pelo terminal com o comando:
-   ```
-   java JogoDoMarciano
-   ```
-2. Tente adivinhar o número secreto digitando um valor inteiro.
-3. O jogo informará se o número digitado é maior ou menor que o número secreto.
-4. O jogo termina quando você acertar ou alcançar o limite de tentativas.
+## Como jogar
 
-## Tecnologias Utilizadas
-- Linguagem: Java
+1. Ao iniciar o jogo, você receberá uma breve introdução com a história do jogo.
+2. O sistema irá sortear um número aleatório dentro de um intervalo definido.
+3. Você deverá tentar adivinhar o número, digitando sua suposição no terminal.
+4. O jogo dará dicas se o número é maior ou menor do que a sua tentativa.
+5. Você possui um limite de tentativas para acertar o número.
+6. Ao acertar, o jogo exibirá o número de tentativas usadas e os recordes anteriores.
 
-## Como Rodar o Projeto
-1. Compile o arquivo Java:
+## Requisitos
+
+- Java 17 ou superior instalado.
+
+## Como executar
+
+1. Compile o jogo:
    ```
    javac JogoDoMarciano.java
    ```
@@ -32,8 +28,8 @@ O Jogo do Marciano é um jogo simples desenvolvido em Java, onde o jogador deve 
    java JogoDoMarciano
    ```
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+## Contribuidores
 
-## Licença
-Este projeto está sob a licença MIT.
+- Thiago de Morais Goncalves - 01609695
+- Eduardo Branco Ferrario -
+- Guilherme Branco Ferrario - 
