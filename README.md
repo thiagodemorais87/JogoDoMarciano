@@ -31,5 +31,5 @@ O Jogo do Marciano é um jogo simples de adivinhação onde o jogador precisa ac
 ## Contribuidores
 
 - Thiago de Morais Goncalves - 01609695
-- Eduardo Branco Ferrario -
-- Guilherme Branco Ferrario - 
+- Eduardo Branco Ferrario - 
+- Guilherme Branco Ferrario - 01596391
